@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8El5QAkt514=",
+  "dgSpecHash": "lBa0Z+tyVRc=",
   "success": true,
   "projectFilePath": "D:\\Projects\\DotNetProjects\\NoteApp\\NoteApp.API\\NoteApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ipper\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
-    "C:\\Users\\ipper\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\ipper\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\ipper\\.nuget\\packages\\scalar.aspnetcore\\2.9.0\\scalar.aspnetcore.2.9.0.nupkg.sha512"
   ],
   "logs": []
 }
